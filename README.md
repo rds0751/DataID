@@ -1,5 +1,5 @@
 # DataID
-# 1. Data Identification Number
+
 ## Problem
 ### We get same data (images, pdf, docs etc.) from different users on WhatsApp which consumes space for same data again and again. I hope same problem must be faced by databases of large companies. Same data saved, copied or sent by different users consumes extra space of disk.
 
